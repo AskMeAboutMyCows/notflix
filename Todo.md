@@ -1,2 +1,2 @@
 finsish loginpage
-c
+connect firebase
